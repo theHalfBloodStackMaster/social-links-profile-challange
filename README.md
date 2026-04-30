@@ -5,6 +5,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
+  - [Note](#note)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -16,6 +17,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
+### Note
+
+I have not added any of social links for security reasons.
 
 ### Screenshot
 
